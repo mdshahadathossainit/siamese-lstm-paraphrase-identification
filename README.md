@@ -16,8 +16,7 @@ Online Q&A platforms like Quora frequently encounter duplicate questions, leadin
 
 ## 📂 Repository Structure
 ```text
-├── documentation/
-│   └── Semantic_Paraphrase_Identification_Paper.pdf  # Full Research Paper
+├──  Semantic_Paraphrase_Identification_Paper.pdf  # Full Research Paper
 ├── workfile.ipynb                                    # Model Implementation & Training Code
 ├── requirements.txt                                  # List of Dependencies
 └── README.md                                         # Project Documentation
